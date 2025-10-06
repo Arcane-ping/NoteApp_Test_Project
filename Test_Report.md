@@ -32,3 +32,20 @@ This lab helped me understand functional testing from both manual and automated 
 **Student:** Bgr Karis  
 **Cohort:** May 2025
 
+
+
+💬 Message to Mr. Gerald
+
+Dear Mr. Gerald,
+
+I wanted to let you know that while working on this Functional Testing Lab, I used ChatGPT as a learning assistant to help me understand how to install Jest, set it up correctly, and use the related commands.
+
+The process was challenging at first, but I have been practicing and learning step by step. I made sure to run all the tests myself, interpret the results, and complete the report in my own words.
+
+Using ChatGPT helped me grasp concepts like unit, integration, and system testing more clearly, and I now feel more confident using Jest for functional testing.
+
+Thank you for your guidance and for allowing us to explore tools that make learning more effective.
+
+Sincerely,
+Dennis
+
